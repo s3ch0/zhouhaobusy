@@ -5,8 +5,10 @@ My name is Zhou Hao. I am a university student living near <font color=green>jin
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=samuel&font=default)
 
+---
 ## 🛠  Technologies and tools
 <a name="learning-now"></a>
+<div align="center">
 
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -19,6 +21,9 @@ My name is Zhou Hao. I am a university student living near <font color=green>jin
 [<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
 
+![ZhouHao's github stats](https://github-readme-stats.vercel.app/api?username=zhouhaobusy&show_icons=true&theme=dracula&hide=stars,issues)
+
+</div>
 
 <a name="learning-next"></a>
 
@@ -30,6 +35,7 @@ My name is Zhou Hao. I am a university student living near <font color=green>jin
 &nbsp;
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=critical" alt="PHP logo" title="PHP" height="25" />][learning_now_anchor]
 &nbsp;
+
 
 
 
@@ -54,8 +60,11 @@ My name is Zhou Hao. I am a university student living near <font color=green>jin
  
 
 
-![ZhouHao's github stats](https://github-readme-stats.vercel.app/api?username=zhouhaobusy&show_icons=true&theme=dracula&hide=stars,issues)
 
+#### 🧡 &nbsp;&nbsp;My passions
+
+* [My Blog Website](http://www.zhouhaobusy.com) 
+* Cyberspace Security ([my articles about it](http://www.zhouhaobusy.com/articles/80))
 <div align="left">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhaobusy&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
@@ -64,13 +73,10 @@ My name is Zhou Hao. I am a university student living near <font color=green>jin
   <br />
 </div>
 
-#### 🧡 &nbsp;&nbsp;My passions
-
-* [My Blog Website](http://www.zhouhaobusy.com) 
-* Cyberspace Security ([my articles about it](http://www.zhouhaobusy.com/articles/80))
 
 
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+
