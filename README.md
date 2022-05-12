@@ -51,10 +51,12 @@ My name is Zhou Hao. I am a university student living near <font color=green>jin
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
+ 
+
 
 ![ZhouHao's github stats](https://github-readme-stats.vercel.app/api?username=zhouhaobusy&show_icons=true&theme=dracula&hide=stars,issues)
 
-<div align="center">
+<div align="left">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhaobusy&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - big fan of Python 😛</small>
@@ -64,9 +66,8 @@ My name is Zhou Hao. I am a university student living near <font color=green>jin
 
 #### 🧡 &nbsp;&nbsp;My passions
 
-* Technology and software ([my_article_about_it](http://www.zhouhaobusy.com))
+* [My Blog Website](http://www.zhouhaobusy.com) 
 * Cyberspace Security ([my articles about it](http://www.zhouhaobusy.com/articles/80))
-* Coding
 
 
 
