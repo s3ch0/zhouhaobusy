@@ -54,6 +54,21 @@ My name is Zhou Hao. I am a university student living near <font color=green>jin
 
 ![ZhouHao's github stats](https://github-readme-stats.vercel.app/api?username=zhouhaobusy&show_icons=true&theme=dracula&hide=stars,issues)
 
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhaobusy&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of Python 😛</small>
+  <br />
+  <br />
+</div>
+
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology and software ([my_article_about_it](http://www.zhouhaobusy.com))
+* Cyberspace Security ([my articles about it](http://www.zhouhaobusy.com/articles/80))
+* Coding
+
+
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
