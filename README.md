@@ -1,6 +1,9 @@
-# Busy To Live! 
+# Busy To Live ! 
 
-My name is Zhou Hao. I am a university student living near <font color=green>jinhua, China.</font> 🥐
+**My name is Zhou Hao. I am a college student living near jinhua, China.</font>** 🥐
+
+> *And now I am studying Cyberspace Security and CTF!*
+
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=samuel&font=default)
@@ -66,11 +69,11 @@ My name is Zhou Hao. I am a university student living near <font color=green>jin
 * [My Blog Website](http://www.zhouhaobusy.com) 
 * Cyberspace Security ([my articles about it](http://www.zhouhaobusy.com/articles/80))
 <div align="left">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhaobusy&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhaobusy&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos"/>
+  <br/>
   <small>Languages used in my public repos - big fan of Python 😛</small>
-  <br />
-  <br />
+  <br/>
+  <br/>
 </div>
 
 
