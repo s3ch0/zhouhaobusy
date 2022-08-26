@@ -12,6 +12,8 @@
 <a name="learning-now"></a>
 <div align="center">
 
+[<img src="https://img.shields.io/badge/Arch Linux-282C34?logo=Arch Linux" alt="Arch logo" title="Arch Linux" height="25" />][tech_tools_anchor]
+
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
@@ -42,7 +44,10 @@
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/16673382/hao-zhou)
+[<img src="https://img.shields.io/twitter/url?label=MyWebsite&logo=Iconify&url=https%3A%2F%2Fwww.zhouhaobusy.com" alt="mywebsite" title="zhouhaobusy" height="25" />](https://www.zhouhaobusy.com)
+
+
 &nbsp;
  
 
