@@ -6,7 +6,6 @@
 
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=samuel&font=default)
 
 ---
 ## 🛠  Technologies and tools
@@ -41,21 +40,6 @@
 
 
 
-
-
-&nbsp;
-
-## 👾  What I am interested in learning at some point
-
-
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
-
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
@@ -66,8 +50,8 @@
 
 #### 🧡 &nbsp;&nbsp;My passions
 
-* [My Blog Website](http://www.zhouhaobusy.com) 
-* Cyberspace Security ([my articles about it](http://www.zhouhaobusy.com/articles/80))
+* [My Blog Website](https://www.zhouhaobusy.com) 
+
 <div align="left">
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhaobusy&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos"/>
   <br/>
