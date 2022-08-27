@@ -39,8 +39,6 @@
 [<img src="https://img.shields.io/badge/Kali-282C34?logo=Kali Linux&logoColor=blue" alt="Kali Linux logo" title="Kali Linux" height="25" />](https://www.zhouhaobusy.com/articles/79)
 
 &nbsp;
-
-
 <font color="" face=monospace size=3>I am now learning `reverse`,`penetration testing`, If you have any study tips for this, please let me know </font>
 
 
