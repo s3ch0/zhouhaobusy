@@ -12,20 +12,20 @@
 <a name="learning-now"></a>
 <div align="center">
 
-[<img src="https://img.shields.io/badge/Arch Linux-282C34?logo=Arch Linux" alt="Arch logo" title="Arch Linux" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Arch Linux-282C34?logo=Arch Linux" alt="Arch logo" title="Arch Linux" height="25" />][https://www.zhouhaobusy.com/articles/67]
 
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Alibaba Cloud-282C34?logo=Alibaba Cloud&logoColor=3DDC84" alt="Alibaba Cloud logo" title="Alibaba Cloud" height="25" />][https://www.zhouhaobusy.com/articles/95]
 &nbsp;
-[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][https://www.zhouhaobusy.com/articles/98]
 &nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][https://code.visualstudio.com/learn]
 &nbsp;
-[<img src="https://img.shields.io/badge/NeoVim-282C34?logo=NeoVim&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/NeoVim-282C34?logo=NeoVim&logoColor=F05032" alt="Neovim logo" title="Neovim" height="25" />][https://www.zhouhaobusy.com/articles/57]
 &nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor" alt="Python logo" title="python" height="25" />][https://www.zhouhaobusy.com/articles/64]
 &nbsp;
 
-![ZhouHao's github stats](https://github-readme-stats.vercel.app/api?username=zhouhaobusy&show_icons=true&theme=dracula&hide=stars,issues)
+![ZhouHao's github stats](https://github-readme-stats.vercel.app/api?username=zhouhaobusy&show_icons=true&theme=synthwave&hide=issues)
 
 </div>
 
@@ -40,14 +40,8 @@
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=critical" alt="PHP logo" title="PHP" height="25" />][learning_now_anchor]
 &nbsp;
 
-<div style="border-radius:15px;display:block;background-color:#a8dadc;border:2px solid #aaa;margin:15px;padding:10px;">
-Get Busy Living or Get Busy Dying
-	<div style="text-align:right;padding:0 15px;">
-	The Shawshank Redemption.
-	</div>
-</div>
 
-I am now learning reverse,penetration testing, If you have any study tips for this, please let me know
+<font color="" face=monospace size=3>I am now learning `reverse`,`penetration testing`, If you have any study tips for this, please let me know </font>
 
 
 
