@@ -12,17 +12,18 @@
 <a name="learning-now"></a>
 <div align="center">
 
-[<img src="https://img.shields.io/badge/Arch Linux-282C34?logo=Arch Linux" alt="Arch logo" title="Arch Linux" height="25" />][https://www.zhouhaobusy.com/articles/67]
 
-[<img src="https://img.shields.io/badge/Alibaba Cloud-282C34?logo=Alibaba Cloud&logoColor=3DDC84" alt="Alibaba Cloud logo" title="Alibaba Cloud" height="25" />][https://www.zhouhaobusy.com/articles/95]
+[<img src="https://img.shields.io/badge/Arch Linux-282C34?logo=Arch Linux" alt="Arch logo" title="Arch Linux" height="25" />](https://www.zhouhaobusy.com/articles/67)
+
+[<img src="https://img.shields.io/badge/Alibaba Cloud-282C34?logo=Alibaba Cloud&logoColor=3DDC84" alt="Alibaba Cloud logo" title="Alibaba Cloud" height="25" />](https://www.zhouhaobusy.com/articles/95)
 &nbsp;
-[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][https://www.zhouhaobusy.com/articles/98]
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />](https://www.zhouhaobusy.com/articles/98)
 &nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][https://code.visualstudio.com/learn]
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />](https://code.visualstudio.com/learn)
 &nbsp;
-[<img src="https://img.shields.io/badge/NeoVim-282C34?logo=NeoVim&logoColor=F05032" alt="Neovim logo" title="Neovim" height="25" />][https://www.zhouhaobusy.com/articles/57]
+[<img src="https://img.shields.io/badge/NeoVim-282C34?logo=NeoVim&logoColor=F05032" alt="Neovim logo" title="Neovim" height="25" />](https://www.zhouhaobusy.com/articles/57)
 &nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor" alt="Python logo" title="python" height="25" />][https://www.zhouhaobusy.com/articles/64]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor" alt="Python logo" title="python" height="25" />](https://www.zhouhaobusy.com/articles/64)
 &nbsp;
 
 ![ZhouHao's github stats](https://github-readme-stats.vercel.app/api?username=zhouhaobusy&show_icons=true&theme=synthwave&hide=issues)
@@ -33,11 +34,10 @@
 
 ## 📖  What I am currently learning 
 
-[<img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=FFCA28" alt="Go logo" title="Go" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=FFCA28" alt="Go logo" title="Go" height="25" />](https://www.zhouhaobusy.com/articles/93)
 &nbsp;
-[<img src="https://img.shields.io/badge/Kali-282C34?logo=Kali Linux&logoColor=blue" alt="Kali Linux logo" title="Kali Linux" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=critical" alt="PHP logo" title="PHP" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Kali-282C34?logo=Kali Linux&logoColor=blue" alt="Kali Linux logo" title="Kali Linux" height="25" />](https://www.zhouhaobusy.com/articles/79)
+
 &nbsp;
 
 
