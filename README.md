@@ -40,6 +40,15 @@
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=critical" alt="PHP logo" title="PHP" height="25" />][learning_now_anchor]
 &nbsp;
 
+<div style="border-radius:15px;display:block;background-color:#a8dadc;border:2px solid #aaa;margin:15px;padding:10px;">
+Get Busy Living or Get Busy Dying
+	<div style="text-align:right;padding:0 15px;">
+	The Shawshank Redemption.
+	</div>
+</div>
+
+I am now learning reverse,penetration testing, If you have any study tips for this, please let me know
+
 
 
 ## 🔍  Where to find me
