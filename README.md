@@ -26,7 +26,7 @@
 [<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor" alt="Python logo" title="python" height="25" />](https://www.zhouhaobusy.com/articles/64)
 &nbsp;
 
-![ZhouHao's github stats](https://github-readme-stats.vercel.app/api?username=zhouhaobusy&show_icons=true&theme=synthwave&hide=issues)
+![ZhouHao's github stats](https://github-readme-stats.vercel.app/api?username=zhouhaobusy&show_icons=true&theme=synthwave&hide=stars)
 
 </div>
 
